@@ -14,9 +14,8 @@ To run the online chess game application locally, follow these steps:
    - Open your terminal or command prompt.
    - Run the following command to clone the repository to your local machine:
      ```bash
-     git clone https://github.com/YOUR_GITHUB_USERNAME/Real-time-CHESS-game.git
+     git clone https://github.com/nishy02/Real-time-CHESS-game.git
      ```
-   - Replace `YOUR_GITHUB_USERNAME` with the actual GitHub username where the project is hosted.
 
 2. **Navigate to the Project Directory**:
    - Change your current directory to the project directory:
